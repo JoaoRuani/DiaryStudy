@@ -17,3 +17,8 @@ The structure might be a little confusing but i will explain later.
 2. Design Patterns
 3. Clean Code
 4. Tests
+
+
+## Courses that i'm following
+
+[MIT 6.00SC Introduction to Computer Science and Programming](https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7&ab_channel=MITOpenCourseWare)
