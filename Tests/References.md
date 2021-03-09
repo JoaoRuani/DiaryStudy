@@ -14,3 +14,6 @@ https://docs.microsoft.com/pt-br/dotnet/core/testing/unit-testing-best-practices
 
 ## Live Unit Tests  Visual Studio
 https://docs.microsoft.com/pt-br/visualstudio/test/live-unit-testing?view=vs-2019
+
+## Builder pattern for tests
+https://ardalis.com/improve-tests-with-the-builder-pattern-for-test-data/
