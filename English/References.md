@@ -1,0 +1,1 @@
+[Coursera - English for Career development](https://www.coursera.org/learn/careerdevelopment/lecture/S5baj/job-search-overview) Didn't have enough time to say if it is good or not, just looking for the english content.
